@@ -19,6 +19,6 @@ class String
     self.split(/[.?!]/).collect do |s|
       if s != ""
         new_array.push(s)
+        new_array.count
   end
 end
-  new_array.count 
