@@ -21,6 +21,3 @@ class String
         new_array.push(s)
   end
   new_array.count 
-end
-end
- 
