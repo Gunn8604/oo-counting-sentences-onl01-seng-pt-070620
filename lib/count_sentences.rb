@@ -21,5 +21,4 @@ class String
         new_array.push(s)
   end
 end
-
 new_array.count 
