@@ -20,4 +20,5 @@ class String
       if s != ""
         new_array.push(s)
   end
+end
   new_array.count 
